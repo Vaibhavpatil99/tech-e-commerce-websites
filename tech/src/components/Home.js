@@ -76,7 +76,7 @@ className="mySwiper "
 
 
       <div className="m-12">
-        <h2 className="flex justify-center items-center text-5xl font-semibold">This Month's Picks</h2>
+        <h2 className="flex justify-center items-center text-5xl font-semibold">This Month's Picks.</h2>
 
       </div>
       <div className="grid grid-cols-2 mx-12">
